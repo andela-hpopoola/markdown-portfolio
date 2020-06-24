@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+- Favorite Food
+  - Rice
+  - Chicken
+- Favorite Games
+  - Herizon Zero Dawn
+  - Fifa 19
+  - God of War
+  
